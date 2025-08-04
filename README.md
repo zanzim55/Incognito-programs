@@ -1,5 +1,3 @@
 # Incognito-programs
-msut try
-enak
-gurih
+msut try.
 ye
